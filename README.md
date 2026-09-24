@@ -5,7 +5,7 @@ API RESTful desenvolvida em Java 17 e Spring Boot para gerenciamento completo de
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
 Uma API RESTful desenvolvida em **Java 17** utilizando a plataforma **Spring Boot** para o ecossistema de gestão e cadastro de utilizadores. O projeto implementa operações completas de CRUD (Create, Read, Update, Delete), validações de dados únicos e persistência em base de dados em memória.
 
