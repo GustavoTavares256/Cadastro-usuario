@@ -20,7 +20,7 @@ Uma API RESTful desenvolvida em **Java 17** utilizando a plataforma **Spring Boo
 - [Como Executar o Projeto](#-como-executar-o-projeto)
 - [Acesso ao H2 Console](#-acesso-ao-h2-console)
 - [Tratamento de Exceções](#-tratamento-de-exceções)
-- [Licença](#-licença)
+
 
 ---
 
